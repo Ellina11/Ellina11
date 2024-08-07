@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ellina11
+- 👋 Hi, I’m Ellina
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning AI/Deep Learning
 - 💞️ I’m looking to collaborate on a project with you
